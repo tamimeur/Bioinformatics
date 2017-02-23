@@ -1,2 +1,2 @@
-# GRN_NN
-Neural network for Gene Regulatory Network design
+# Bioinformatics
+Promoter and Protein modeling/design using Deep Neural Networks
